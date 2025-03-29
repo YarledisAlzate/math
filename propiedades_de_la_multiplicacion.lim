@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>RECURSOS</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>808080</corbanda>
+        <cornavega>348BCB</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Propiededades de la multiplicación</titulo>
+        <autor>Yarledis Alzate</autor>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="applause-cheer-236786.mp3" modo="1" >Muy bien</correcto>
+        <incorrecto son="failfare-86009.mp3" modo="1" >Intentalo nuevamente</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <imaxe>1.jpg</imaxe>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Bahnschrift SemiLight SemiConde" size="28">Diseñado por: Yarledis Alzate Lic. en matemáticas <br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>38</tipo>
+              <imaxe>2.jpg</imaxe>
+              <forma>0</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="3" >
+              <tipo>9</tipo>
+              <cabeceira>Repasemos</cabeceira>
+              <imaxe>Captura_de_pantalla_2025-03-29_105319.png</imaxe>
+              <liga posx="138" posy="324" ir="https://youtu.be/4tgplwtzuL0?si=GnCdfJdZeyMi_UW5">Video explicativo 1</liga>
+              <liga posx="348" posy="323" ir="https://youtu.be/og9oY96aWbs?si=rRK-wMa_3nGm86Bx">Video explicativo 2</liga>
+        </paxina>
+        <paxina id="4" >
+              <tipo>18</tipo>
+            <nonpasar atras="1" >1</nonpasar>
+              <cabeceira>Completa </cabeceira>
+              <modo>3</modo>
+              <completa ant="La propiedad " post="de la multiplicación establece que el orden de los factores no altera el producto.">Conmutativa</completa>
+              <completa ant="La propiedad " post="de la multiplicación establece que los resultados de la expresión son los mismos ya sea que los números dentro del paréntesis se sumen antes o después de la multiplicación.">Distributiva</completa>
+              <completa ant="La propiedad " post="de la multiplicacón establece que independientemente de cómo se agrupen los números al multiplicar, el producto siempre será el mismo. ">Asociativa</completa>
+              <completa ant="El " post="de la multiplicacion es el número que al ser multiplicado sobre un numero da como resultado el mismo numero.">Elemento neutro </completa>
+              <completa ant="El elemento neutro de la multiplicación es el " post="">1</completa>
+        </paxina>
+        <paxina id="5" >
+              <tipo>39</tipo>
+            <nonpasar atras="1" >1</nonpasar>
+              <cabeceira>Encuentra las parejas </cabeceira>
+              <modo>1</modo>
+            <parellas imaxe="Act_asociativa.png" texto="">Act_asociativa.png</parellas>
+              <parellas imaxe="Act_conmutativa_.png" texto="">Act_conmutativa_.png</parellas>
+              <parellas imaxe="Act_distri2.png" texto="">Act_distri2.png</parellas>
+              <parellas imaxe="Act_distributiva.png" texto="">Act_distributiva.png</parellas>
+              <parellas imaxe="Act_elem_neutro.png" texto="">Act_elem_neutro.png</parellas>
+              <parellas imaxe="Act_conmu2.png" texto="">Act_conmu2.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>611D63</ctapa>
+              <tempo>90</tempo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>11</tipo>
+            <nonpasar atras="1" >1</nonpasar>
+              <cabeceira>Arrastra cada propiedad al ejemplo que corresponda</cabeceira>
+              <modo>3</modo>
+              <cousa nome="PROPIEDAD ASOCIATIVA">Asociativa.png</cousa>
+              <cousa nome="PROPIEDAD CONMUTATIVA">conmutativa.png</cousa>
+              <cousa nome="PROPIEDAD DISTRIBUTIVA">distributiva.png</cousa>
+              <cousa nome="ELEMENTO NEUTRO">elemento_neutro.png</cousa>
+        </paxina>
+        <paxina id="7" >
+              <tipo>35</tipo>
+            <nonpasar atras="1" >1</nonpasar>
+              <cabeceira>Observa el tipo de propiedad y ordenala según su estructura</cabeceira>
+              <forma>0</forma>
+              <completa>Captura_de_pantalla_2025-03-28_233853.png</completa>
+              <completa>Captura_de_pantalla_2025-03-28_233902.png</completa>
+              <completa>Captura_de_pantalla_2025-03-28_233908.png</completa>
+              <completa>Captura_de_pantalla_2025-03-28_233915.png</completa>
+              <completa>Captura_de_pantalla_2025-03-28_233924.png</completa>
+        </paxina>
+        <paxina id="8" >
+              <tipo>9</tipo>
+              <imaxe>Captura_de_pantalla_2025-03-29_104603.png</imaxe>
+              <liga posx="416" posy="213" ir="https://www.liveworksheets.com/w/es/matematicas/7291894">ACTIVIDAD FINAL</liga>
+        </paxina>
+    </libro>
+</lim>
